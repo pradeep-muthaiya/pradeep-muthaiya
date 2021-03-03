@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling.
+
 
 <!--
 **pradeep-muthaiya/pradeep-muthaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

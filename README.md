@@ -1,12 +1,16 @@
 Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling.
 
 ## Projects
-  - [Github README PROFILE CATEGORY](#github-readme-profile-category)
-  - [List out `Awesome README Profile` Tools](#list-out-awesome-readme-profile-tools)
-  - [List out `Awesome README Profile` Articles](#list-out-awesome-readme-profile-articles)
-  - [Contribute](#contribute)
+  - [AWS Stock Server](#github)
+  - [AI Voice Assitant](#list-out)
+  - [Project 3](#list-out)
+  - [Project 4](#contribute)
 
-## Where To Find Me
+## How to Conact Me
+
+[pradeep.muthaiya@berkeley.edu](mailto:pradeep.muthaiya@berkeley.edu)
+
+## Social Media
   - [LinkedIn](https://www.linkedin.com/in/pradeep-muthaiya/)
   - [Instagram](https://www.instagram.com/pradeep.muthaiya/)
   - [Facebook](https://www.facebook.com/profile.php?id=100009277739108)

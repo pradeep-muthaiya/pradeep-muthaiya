@@ -9,7 +9,6 @@ Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Comput
 ## Connect With Me
   - Email: [pradeep.muthaiya@berkeley.edu](mailto:pradeep.muthaiya@berkeley.edu)
   - LinkedIn: [https://www.linkedin.com/in/pradeep-muthaiya/](https://www.linkedin.com/in/pradeep-muthaiya/)
-  - 
 <!--
 **pradeep-muthaiya/pradeep-muthaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

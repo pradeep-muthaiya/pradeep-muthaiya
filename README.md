@@ -1,4 +1,4 @@
-Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling. My interests are...
+Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling. In my free free time I like to go surfing, exercise, and watching Netflix.
 
 ## Projects
   - [AWS Stock Server](#github)

@@ -1,10 +1,9 @@
-Hi my name is Pradeep Muthaiya and I am a student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling. In my free free time I like to go surfing, exercise, and watching Netflix.
+Hi my name is Pradeep Muthaiya and I am an AI / ML Enginner at Chase working. I was a former student at UC Berkeley studying Computer Science and Statistics with an emphasis on neural networks and statistical modeling. In my free free time I like to go surfing, exercise, and watching Netflix.
 
 ## Projects
   - [AWS Stock Server](#github)
   - [AI Voice Assitant](#list-out)
-  - [Project 3](#list-out)
-  - [Project 4](#contribute)
+  - [Langchain Agent Fitness App](https://github.com/pradeep-muthaiya/llm-agent-fitness-app)
 
 ## Connect With Me
   - Email: [pradeep.muthaiya@gmail.com](mailto:pradeep.muthaiya@gmail.com)

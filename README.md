@@ -2,7 +2,7 @@ Hi my name is Pradeep Muthaiya and I am an AI / ML Enginner at Chase. I was a fo
 
 ## Projects
   - [AWS Stock Server](#github)
-  - [AI Voice Assitant](#list-out)
+  - [SpotifAI](https://github.com/pradeep-muthaiya/SpotifAI)
   - [Langchain Agent Fitness App](https://github.com/pradeep-muthaiya/llm-agent-fitness-app)
 
 ## Connect With Me

@@ -4,6 +4,7 @@ Hi my name is Pradeep Muthaiya and I am an AI / ML Enginner at Chase. I was a fo
   - [AWS Stock Server](https://github.com/pradeep-muthaiya/StonksSkeleton/tree/master/frontend)
   - [SpotifAI](https://github.com/pradeep-muthaiya/SpotifAI)
   - [Langchain Agent Fitness App](https://github.com/pradeep-muthaiya/llm-agent-fitness-app)
+  - [Credential Token Authorizer](https://github.com/pradeep-muthaiya/credentialDatabaseTokenAuth)
 
 ## Connect With Me
   - Email: [pradeep.muthaiya@gmail.com](mailto:pradeep.muthaiya@gmail.com)
